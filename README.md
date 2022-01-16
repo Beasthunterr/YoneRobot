@@ -30,7 +30,7 @@ CREDITS
 ❤️ TheHamkerCat = WBB
 
 
-This Bot Is Developed By Kittu ! 
+This Bot Is Developed By Kittu and Deepjit ! 
 
 
 
