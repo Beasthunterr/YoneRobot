@@ -23,10 +23,12 @@ The easiest way to deploy this Bot
  
 CREDITS
 ```
+❤ Catuserbot - Deepjit
 ❤️ Mafia Userbot - Himanshu
 ❤️ MashaRobot = Dark Prince 
 ❤️ DaisyX = Inuka
 ❤️ TheHamkerCat = WBB
+
 
 This Bot Is Developed By Kittu ! 
 
